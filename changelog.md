@@ -1,5 +1,3 @@
-<?php
-
  * Members:
     - Ebon
     - Gisu
